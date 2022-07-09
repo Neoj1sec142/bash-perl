@@ -1,4 +1,4 @@
-# Bash Basics 1-62:
+# Bash Basics 1-54:
 1. [Intro]()    
 2. [Lesson 2]()    
 3. [Grep & Cut CMD]()    
@@ -7,6 +7,8 @@
 6. [Notify Pop-ups]()    
 7. [HEAD, TAIL, MORE]()    
 8. [Figlet]()    
+### Break For Advance Video:
+[Link-To-Video](https://www.youtube.com/watch?v=uqHjc7hlqd0)   
 9. [Colors]()    
 10. [Figlet Timer]()    
 11. [ImageStory Sample]()    
